@@ -7,7 +7,7 @@ http://sansat.net:25461/Pu5jgSeShC2Bfpq/oZeEG8CmTm/100157?.m3u
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_TV_HD-in&token=RED_0EJ4oKuJ08OjhjAVpJ7o5w==,1623016277.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil",Sun TV HD 3
-http://sansat.net:25461/Pu5jgSeShC2Bfpq/COni0S2Gmt/100157?.m3u
+http://sansat.net:25461/Pu5jgSeShC2Bfpq/MrWkckL7Tv/100157?play_token=L6RnBEcDuU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil",Star Vijay HD 1
 http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
