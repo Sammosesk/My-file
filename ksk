@@ -1,0 +1,217 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil",Sun TV HD 1
+http://46.105.112.116/?watch=R-EX/TAMIL_SUN_TV_HD-in&token=RED_DDlx94iuh_N7kmhTeRTodA==,1623630459.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil",Sun TV HD 2
+http://46.105.112.116/?watch=R-EX/TAMIL_SUN_TV_HD-in&token=RED_0EJ4oKuJ08OjhjAVpJ7o5w==,1623016277.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil",Star Vijay HD 1
+http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil",Star Vijay FHD
+http://46.105.112.116/?watch=R-EX/FHD_VIJAY_-in&token=RED_zM163RI-nJsyhz8y1LwPCg==,1623042555.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil",Zee Tamil HD
+http://46.105.112.116/?watch=R-EX/TAMIL_ZEE_TAMIL_SD-in&token=RED_zRC1arjVMid9ZXwUuiNPWA==,1623800288.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil",Zee Tamil FHD
+http://46.105.112.116/?watch=R-EX/FHD_ZEE_TAMIL_-in&token=RED_KqGky4RFGpZGd9fjrr7mpw==,1623042395.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil",Jaya TV HD
+http://46.105.112.116/?watch=R-EX/TAMIL_JAYA_TV_HD-in&token=RED_U1YQDkZL3_rsK0oaq3CofA==,1623576704.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil",Colors Tamil HD
+http://46.105.112.116/?watch=R-EX/TAMIL_COLORS_HD-in&token=RED_ZYRv7T4Lu76tCxDdDP258w==,1623800442.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil",Colors Tamil FHD
+http://46.105.112.116/?watch=R-EX/FHD_TAMIL_COLORS_-in&token=RED_hzJni0JgE3JPW4hcygHhhQ==,1623192107.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Polimer-TV.png/revision/latest/scale-to-width-down/250?cb=20191224100831" group-title="Tamil",Polimer
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://sc.dish.com/shared/images/station-logos/ADTYA.png " group-title="Tamil",Adithya TV
+http://46.105.112.116/?watch=R-EX/ADITHYA_TV-in&token=RED_qlfhinRylDGLGE9EprJLTQ==,1623043139.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil",KTV HD
+http://46.105.112.116/?watch=R-EX/TAMIL_KTV_HD-in&token=RED_P_iigbesLUleNbKzw0rppw==,1623799626.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil",KTV FHD
+http://46.105.112.116/?watch=R-EX/FHD_KTV_-in&token=RED_lk2l1oRHwScryK4sbrjv5w==,1623042507.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil",Vijay Super
+http://46.105.112.116/?watch=R-EX/TAMIL_VIJAY_SUPER-in&token=RED_QDoD75QR_IQH7JlttbfjLA==,1623015794.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil",Sun Life 2
+http://46.105.112.116/?watch=R-EX/TAMIL_SUN_LIFE_TAMIL-in&token=RED_NkcE5tZZjMb_I2PGBSklpQ==,1623576985.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil",Kalaignar Murasu
+http://46.105.112.116/?watch=R-EX/KALAIGNAR_MURASU-in&token=RED_dPp3m6V9xYUcccGK3ZkV9A==,1623577060.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" group-title="Tamil",Kalaignar Siripoli
+http://46.105.112.116/?watch=R-EX/KALAIGNAR_SIRIPPOLI-in&token=RED_wfFhTUcJqx_B4KN7gJCVbA==,1623800813.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",MK Six
+http://46.105.112.116/?watch=R-EX/MK_SIX-in&token=RED_kke2KCBd4acm8g5Lzhy8EA==,1623042751.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil",Adithya Malaysia
+http://pal.ukodtv.xyz/live/3238545630/7067527301/39.m3u8?token=QhpQUUYMEAlABFoHCAYLB1VWVwRSDwNVAldcUggHVwlcCwxVA1MKClEQFUZDQUFVBVpsCwUbDAVdTUdGSwRDb1BcGgoXUAcDVhAVRkRcXlVGDQNOQ0lfUkZbC0ZUDR0SXEBMVUcKU189VlwSWVZWEl5ZRg4NFRRZCj4BVlUAX1QbAhoBF0gQWhFCG15eQF9cSBVRCxVLV0IBQ19dTQ1dHBtbV0VbEEBKQAgbLX4XHxIBT0cHD0pfWQpDXxFVUkQIGxQaWUY7QFYRRksBUVhWQkYNEVJDFRRbBRk6UFcPX1VaTFFfWxcQCUADG0gSWFxeDUNcED5JX1JGWwtGVA1M
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News
+http://46.105.112.116/?watch=R-EX/TAMIL_SUN_NEWS_TAMIL_-in&token=RED_WaTw5KVDrzFX3VZxV5RMsw==,1623638066.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil",Sun Music HD
+http://46.105.112.116/?watch=R-EX/TAMIL_SUN_MUSIC_HD-in&token=RED_7oh4zCJLkPKCmdgBwdlSyg==,1623638497.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil",Raj Musix
+http://46.105.112.116/?watch=R-EX/TAMIL_RAJ_MUSIX-in&token=RED_r8bNal32KAyfZozAxJdcOQ==,1623016365.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil",Jaya Max
+http://46.105.112.116/?watch=R-EX/TAMIL_JAYA_MAX-in&token=RED_ch7uhAL3o3GLE5xACuqtQg==,1623016394.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_musicBig.png/revision/latest/scale-to-width-down/230?cb=20200217033512" group-title="Tamil",Vijay Music
+http://46.105.112.116/?watch=R-EX/Star_Viyaj_Music-in&token=RED_NQYsfCABZH4VXghmqwPUPA==,1623628800.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil",7s Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_tunes.png",MK Tunes
+http://46.105.112.116/?watch=R-EX/MK_TUNES-in&token=RED_7GVGdrGjY1fC_iY6-qgQLg==,1623042970.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Garuda_Film.png/revision/latest?cb=20180425150352" group-title="Tamil",Garuda Movies
+https://garuda-cdn.xyz/live/60c355026a422/12345/60700ffcecfd0/60700ffcecfd0.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg/revision/latest/scale-to-width-down/200?cb=20191214224150" group-title="Tamil",Star Sports Tamil
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_TAMIL-in&token=RED_HEJ3ifvf32kPQ3CE7cFRzQ==,1623578253.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony_Ten_4.png/revision/latest/scale-to-width-down/220?cb=20210601055433" group-title="Tamil",Sony Ten 4 Tamil
+https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.pinimg.com/564x/59/e9/1a/59e91a7c7ed1a090308a7da6e32824b8.jpg",Gemini TV HD
+http://46.105.112.116/?watch=R-EX/FHD_GEMINI_TV_-in&token=RED_bEvaIX9jz_m4Z-GeMqzEgg==,1623193980.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://www.indiantvinfo.com/media/2017/03/Logo-Of-Gemini-Music-HD-Channel.jpg",Gemini Music FHD
+http://46.105.112.116/?watch=R-EX/FHD_GEMICI_MUSIC_-in&token=RED_Xj5I6hE_Ezbubf3QAAyUJw==,1623800617.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg",Gemini Music FHD
+http://46.105.112.116/?watch=R-EX/TELUGU_GEMINI_MOVIES_HD-in&token=RED_hW43H-S5yntGsfUZI6onHQ==,1623194421.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/gemini-life-logo-300x300.jpg",Gemini Life
+http://46.105.112.116/?watch=R-EX/TELUGU_GEMINI_LIFE-in&token=RED_bO0d_WqtZU0Xs3sUWweEHA==,1623194295.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-Movies-HD-Logo.jpg",Star MAA Movies FHD
+http://46.105.112.116/?watch=R-EX/FHD_STAR_MAA_MOV-in&token=RED_wxhMs0Avw5fppMtO87gT5Q==,1623800675.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg",Star MAA FHD
+http://46.105.112.116/?watch=R-EX/FHD_STAR_MAA_-in&token=RED_-M5if3zcXJo_ERjlz8NqUw==,1623800708.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinemalu HD
+http://46.105.112.116/?watch=R-EX/TELUGU_ZEE_CINEMALU-in&token=RED_PcGkdVd1u1D_jYsDhfth3w==,1623194214.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-telugu-hd-logo-300x300.jpg",Zee Telugu HD
+http://46.105.112.116/?watch=R-EX/FHD_ZEE_TELUGU_-in&token=RED_dWrAgOvVlQzL2Hz2t7aXKw==,1623194150.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil",History TV18 HD
+http://46.105.112.116/?watch=R-EX/FHD_HISTORY_TV_-in&token=RED_z9AapVyav4_SYr2taMsnbg==,1623044190.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil",Sony BBC Earth HD Tamil
+http://46.105.112.116/?watch=R-EX/TAMIL_SONY_BBC_EARTH_HD-in&token=RED_JW9cyGt45KgkLS6BDAV-DQ==,1623194495.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9b/4f/84/9b4f843fa6f7d9ab08b2fd9fe9f9457b.png" group-title="Tamil",Fox LiFe HD 
+http://46.105.112.116/?watch=R-EX/TAMIL_FOX_LIFE_HD-in&token=RED_7d0WyVTEbkJ48_Y3mQaerA==,1623799816.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="Tamil",Discovery Tamil HD
+http://46.105.112.116/?watch=R-EX/TAMIL_DISCOVERY_WORLD_HD-in&token=RED_gXcsyWNYd0UIm1__bYuf3g==,1623194624.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="English",Sony BBC Earth HD
+http://46.105.112.116/?watch=R-EX/ENGLISH_BBC_EARTH_HD-in&token=RED_pqP4g2NtQk0fNaNQEmAOmg==,1623044286.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="English",Discovery FHD
+http://46.105.112.116/?watch=R-EX/FHD_DISCOVERY_-in&token=RED_5Q8yv95SMOSUe9PxDqmp7Q==,1623044129.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="English",Animal planet
+http://46.105.112.116/?watch=R-EX/ENGLISH_ANIMAL_PLANET_HD-in&token=RED_oR_nP69hCIiU2R1CiCuFPg==,1623193692.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World FHD
+http://46.105.112.116/?watch=R-EX/FHD_STAR_WORLD_-in&token=RED_BTH-uMH8P2czCFPfzZQQBg==,1623193206.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e5/3f/b3/e53fb3da3887d1a760b2927a59f57d76.png" group-title="English",Colors Infinity HD
+http://46.105.112.116/?watch=R-EX/ENGLISH_COLORS_INFINITY_HD-in&token=RED_25buVLx-WZEg2iXonoVxeg==,1623802312.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143020755094929408/8b7P5hZ6.png" group-title="English",Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English",Sony Pix FHD
+http://46.105.112.116/?watch=R-EX/FHD_SONY_PIX_-in&token=RED_F6aeAYTaMsV0o1LtWuXZ5Q==,1623381766.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English",Sony Pix HD
+http://185.180.15.13:2200/R-EX/HINDI_SONY_PIX_HD-in/mono.m3u8?token=RED_T-PM1WbplV9FtToO4HasAQ==,1615770127.7448616414
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="English",MN+ HD
+http://46.105.112.116/?watch=R-EX/HINDI_MN_PLUS_HD-in&token=RED_tH7R6xu8n-BLOAVLmP_86Q==,1623191882.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/421502_preview.png" group-title="English",Star Movies FHD
+http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in&token=RED_xt44UcYZBx1ZAJf-CQ1uWg==,1623192392.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/StarMoviesSelectHDLogo.jpg/220px-StarMoviesSelectHDLogo.jpg" group-title="English",Star Movies Select HD
+http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in&token=RED_ImVZprbSgC5Ci-ZHz83ygw==,1623192256.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English",Movies Now HD
+http://46.105.112.116/?watch=R-EX/HINDI_MOVIES_NOW_HD-in&token=RED_Z6gyyfwcQxc5Lhn4Oq2zOA==,1623016019.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-url="" group-title="English",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-url="" group-title="English",&privé HD 
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-url="" group-title="English",&privé HD 
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="English",Star Sports 1 FHD
+http://46.105.112.116/?watch=R-EX/FHD_STAR_SPORTS_1_-in&token=RED_UJuPtvXUOuTH7GTR1WnOLQ==,1623192520.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="English",Star Sports 1 HD
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in&token=RED_7uYiYB7mCZWV_yT-twtDlQ==,1623801633.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English",Star Sports 2 FHD
+http://46.105.112.116/?watch=R-EX/FHD_STAR_SPORTS_2_-in&token=RED_OuFogGVN4Rhv6mBtvWRVEQ==,1623192590.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English",Star Sports 2 HD
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_2_HD-in&token=RED_T0itZtkmaYP0jDS1EWNM3w==,1623802011.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180806112709" group-title="English",Star Sports Select 1 HD
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in&token=RED_hSBe1oq1r2XeCTKZzzwv2g==,1623801852.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="English", Star Sports Select 2 HD
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in&token=RED_09Pxi57IMoPeqR4cCw9P9A==,1623801967.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180806112709" group-title="English",Star Sports Select 1 HD
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in&token=RED_V4sWGFX5xEgWUbVmU167Bw==,1623577777.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="English", Star Sports Select 2 HD
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in&token=RED_VvihNcgcNwUWooNBjRogLg==,1623577813.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sony-Ten-1-HD.png" group-title="English", Sony Ten 1 FHD
+http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN_1_-in&token=RED_OsS7bSxF3ka9TPzLOtIlgA==,1623624956.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="English", Sony Ten 2 FHD
+http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN2_-in&token=RED_5895w26Y5sFuQrsHpdpKWg==,1623625055.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="English", Sony Ten 3 FHD
+http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN_3_-in&token=RED_ADCo0R3D-iX3tlJrM0zl_g==,1623625090.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="English", Sony Six FHD
+http://46.105.112.116/?watch=R-EX/FHD_SONY_SIXX_-in&token=RED_vvbu1QE-afkwMsiSnACMtw==,1623192640.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="English", Sony Six HD
+http://46.105.112.116/?watch=R-EX/SPORTS_SONY_SIX_HD-in&token=RED_1YINyGgVvRjKL6BMjzCCHw==,1623578086.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://sportda.com/wp-content/uploads/2018/09/SKY-SPORTS-CRICKET-1080.png" group-title="English", Sky Cricket FHD
+http://46.105.112.116/?watch=EX/Sky_Sports_Cricket_FHD-uk&token=RED_j2S33Ed9KnIsnORfLKU2pw==,1623482948.4914806624&t=0&s=4&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png/revision/latest/scale-to-width-down/300?cb=20200319064538" group-title="English", Eurosports
+http://46.105.112.116/?watch=R-EX/EURO_SPORTS_-in&token=RED__-OyzvL07tMJeySsNe9m-g==,1623578177.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="English", Willow Cricket HD
+http://46.105.112.116/?watch=R-EX/WILLOW_CRICKET_HD-in&token=RED_kxKhFpS9xNuTls3SBvn7dQ==,1623483119.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
