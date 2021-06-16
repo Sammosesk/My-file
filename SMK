@@ -53,6 +53,32 @@ http://46.105.112.116/?watch=R-EX/KALAIGNAR_SIRIPPOLI-in&token=RED_wfFhTUcJqx_B4
 
 #EXTINF:-1  group-title="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",MK Six
 http://46.105.112.116/?watch=R-EX/MK_SIX-in&token=RED_kke2KCBd4acm8g5Lzhy8EA==,1623042751.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+#EXTINF:-1 tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png" group-title="Tamil;News",Polimer News
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp" group-title="Tamil;News",Puthiya Thalaimurai
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Logo_of_News7_Tamil_Logo.jpg/220px-Logo_of_News7_Tamil_Logo.jpg" group-title="Tamil;News",News 7 Tamil
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/News18_Tamil_Nadu.jpg" group-title="Tamil;News",News 18 TamilNadu
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="Tamil;News",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniVcmrd5czUfkeABDtAHhDUOh54nNY2gCi_76drzg=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;News",MaalaiMurasu TV
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News 1
+http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608980b35450f/608980b35450f.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News 2
+http://rv.therevenge.co:80/live/477817175105424/477817175105424/83948.m3u8?checkedby
+
+#EXTINF:-1 tvg-logo="https://imga.androidappsapk.co/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g=s300" group-title="Tamil;News",Kalaignar Seithigal
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_NEWS_TAMIL_-in&token=RED_WaTw5KVDrzFX3VZxV5RMsw==,1623638066.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
