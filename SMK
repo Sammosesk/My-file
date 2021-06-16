@@ -77,7 +77,7 @@ http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608980b35450f/608980b35450f.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News 2
 http://rv.therevenge.co:80/live/477817175105424/477817175105424/83948.m3u8?checkedby
 
-#EXTINF:-1 tvg-logo="https://imga.androidappsapk.co/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g=s300" group-title="Tamil;News",Kalaignar Seithigal
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroidappsapk.co%2Famp%2Fkalaignar-seithigal-tamil-news%2F&psig=AOvVaw2WeM_Usi20nmkCELQZW1TS&ust=1623945528196000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCy8NTCnPECFQAAAAAdAAAAABAM" group-title="Tamil;News",Kalaignar Seithigal
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News
