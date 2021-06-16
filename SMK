@@ -87,7 +87,7 @@ http://46.105.112.116/?watch=R-EX/FHD_GEMINI_TV_-in&token=RED_bEvaIX9jz_m4Z-GeMq
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.indiantvinfo.com/media/2017/03/Logo-Of-Gemini-Music-HD-Channel.jpg",Gemini Music FHD
 http://46.105.112.116/?watch=R-EX/FHD_GEMICI_MUSIC_-in&token=RED_Xj5I6hE_Ezbubf3QAAyUJw==,1623800617.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg",Gemini Music FHD
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg",Gemini Movies
 http://46.105.112.116/?watch=R-EX/TELUGU_GEMINI_MOVIES_HD-in&token=RED_hW43H-S5yntGsfUZI6onHQ==,1623194421.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/gemini-life-logo-300x300.jpg",Gemini Life
