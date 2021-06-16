@@ -6,6 +6,9 @@ http://sansat.net:25461/Pu5jgSeShC2Bfpq/oZeEG8CmTm/100157?.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil",Sun TV HD 2
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_TV_HD-in&token=RED_0EJ4oKuJ08OjhjAVpJ7o5w==,1623016277.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil",Sun TV HD 3
+http://sansat.net:25461/Pu5jgSeShC2Bfpq/COni0S2Gmt/100157?.m3u
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil",Star Vijay HD 1
 http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
 
@@ -63,8 +66,11 @@ http://pal.ukodtv.xyz/live/3238545630/7067527301/39.m3u8?token=QhpQUUYMEAlABFoHC
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_NEWS_TAMIL_-in&token=RED_WaTw5KVDrzFX3VZxV5RMsw==,1623638066.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil",Sun Music HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil",Sun Music HD 1
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_MUSIC_HD-in&token=RED_7oh4zCJLkPKCmdgBwdlSyg==,1623638497.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil",Sun Music HD 2
+http://sansat.net:25461/Pu5jgSeShC2Bfpq/ZoMg4QFwtl/100155?.m3u
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil",Raj Musix
 http://46.105.112.116/?watch=R-EX/TAMIL_RAJ_MUSIX-in&token=RED_r8bNal32KAyfZozAxJdcOQ==,1623016365.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
