@@ -24,7 +24,7 @@ http://46.105.112.116/?watch=R-EX/TAMIL_JAYA_TV_HD-in&token=RED_U1YQDkZL3_rsK0oa
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil HD
 http://46.105.112.116/?watch=R-EX/TAMIL_COLORS_HD-in&token=RED_ZYRv7T4Lu76tCxDdDP258w==,1623800442.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertaiment",Colors Tamil FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil FHD
 http://46.105.112.116/?watch=R-EX/FHD_TAMIL_COLORS_-in&token=RED_hzJni0JgE3JPW4hcygHhhQ==,1623192107.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo=" https://sc.dish.com/shared/images/station-logos/ADTYA.png " group-title="Tamil Comedy",Adithya TV
