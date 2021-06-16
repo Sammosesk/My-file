@@ -101,12 +101,17 @@ http://212.224.98.196:2200/R-EX/TAMIL_JAYA_PLUS-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Win_TV.jpeg/revision/latest/scale-to-width-down/230?cb=20191226082027" group-title="Tamil;News",Win TV
 http://rv.therevenge.co:80/live/477817175105424/477817175105424/83900.m3u8?checkedby
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil",Sun Music HD 2
 http://sansat.net:25461/Pu5jgSeShC2Bfpq/liKa2MIdHr/100155?play_token=L1onAsgP8p
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil",Raj Musix
 http://46.105.112.116/?watch=R-EX/TAMIL_RAJ_MUSIX-in&token=RED_r8bNal32KAyfZozAxJdcOQ==,1623016365.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil;Music",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil;Music",Isai Aruvi
+https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil",Jaya Max
 http://46.105.112.116/?watch=R-EX/TAMIL_JAYA_MAX-in&token=RED_ch7uhAL3o3GLE5xACuqtQg==,1623016394.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
