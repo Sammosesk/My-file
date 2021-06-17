@@ -144,14 +144,8 @@ https://garuda-cdnserver1.tk/sunMusic-Garuda-iptv/index.m3u8?t=606ffcb5820d2
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD Low Quality
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD VPN
-http://alphabetagama.myddns.me/south2019/sunmusichd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDI6MDk6MTQgQU0maGFzaF92YWx1ZT1pcWR4bjBSTkgvdm8xS0NvaG9vNDBRPT0mdmFsaWRtaW51dGVzPTEy
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil Music",Raj Musix
 http://46.105.112.116/?watch=R-EX/TAMIL_RAJ_MUSIX-in&token=RED_r8bNal32KAyfZozAxJdcOQ==,1623016365.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil Music",Raj Musix
-http://sansat.net:25461/02021767478340/X70UIdOaCn/100145?play_token=O4pe3L5gIv
 
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
