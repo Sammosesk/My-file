@@ -18,8 +18,11 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44744
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay FHD
 http://46.105.112.116/?watch=R-EX/FHD_VIJAY_-in&token=RED_zM163RI-nJsyhz8y1LwPCg==,1623042555.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil HD 1
 http://46.105.112.116/?watch=R-EX/TAMIL_ZEE_TAMIL_SD-in&token=RED_zRC1arjVMid9ZXwUuiNPWA==,1623800288.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil HD 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44714
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil FHD
 http://46.105.112.116/?watch=R-EX/FHD_ZEE_TAMIL_-in&token=RED_KqGky4RFGpZGd9fjrr7mpw==,1623042395.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
@@ -36,8 +39,11 @@ http://46.105.112.116/?watch=R-EX/TAMIL_COLORS_HD-in&token=RED_ZYRv7T4Lu76tCxDdD
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil FHD
 http://46.105.112.116/?watch=R-EX/FHD_TAMIL_COLORS_-in&token=RED_hzJni0JgE3JPW4hcygHhhQ==,1623192107.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo=" https://sc.dish.com/shared/images/station-logos/ADTYA.png " group-title="Tamil Comedy",Adithya TV
+#EXTINF:-1 tvg-logo=" https://sc.dish.com/shared/images/station-logos/ADTYA.png " group-title="Tamil Comedy",Adithya TV 1
 http://46.105.112.116/?watch=R-EX/ADITHYA_TV-in&token=RED_qlfhinRylDGLGE9EprJLTQ==,1623043139.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo=" https://sc.dish.com/shared/images/station-logos/ADTYA.png " group-title="Tamil Comedy",Adithya TV 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44681
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Movies",KTV HD
 http://46.105.112.116/?watch=R-EX/TAMIL_KTV_HD-in&token=RED_P_iigbesLUleNbKzw0rppw==,1623799626.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
@@ -48,11 +54,20 @@ http://46.105.112.116/?watch=R-EX/FHD_KTV_-in&token=RED_lk2l1oRHwScryK4sbrjv5w==
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil Movies",Vijay Super
 http://46.105.112.116/?watch=R-EX/TAMIL_VIJAY_SUPER-in&token=RED_ZTYiUlK4egUE7MHfC4AeYA==,1623960958.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil Entertainment",Peppers Tv
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/16/16424e0c2ea9562556cb153cc9c417d9.jpeg" group-title="Tamil Movies",Jaya Movies
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44747
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839" group-title="Tamil;Entertainment",Peppers TV
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44870
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai VPN
-http://alphabetagama.myddns.me/south2019/zeethirai/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDI6MTQ6MTMgQU0maGFzaF92YWx1ZT11VThuS3cvelk2WFhBMkR4UHpQUndnPT0mdmFsaWRtaW51dGVzPTEy
+#EXTINF:-1 tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png" group-title="Tamil Entertainment",Ultramax Tv
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44666
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil Entertainment",Kalaignar Murasu
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44684
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil Movies",Zee Thirai 
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44715
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life 
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_LIFE_TAMIL-in&token=RED_NkcE5tZZjMb_I2PGBSklpQ==,1623576985.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
@@ -62,6 +77,9 @@ http://alphabetagama.myddns.me/south2019/sunlife/playlist.m3u8?wmsAuthSign=c2Vyd
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil Entertainment",Kalaignar Murasu
 http://46.105.112.116/?watch=R-EX/KALAIGNAR_MURASU-in&token=RED_dPp3m6V9xYUcccGK3ZkV9A==,1623577060.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 group-title="Tamil Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",MK Six
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44766
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" group-title="Tamil Comedy",Kalaignar Siripoli
 http://46.105.112.116/?watch=R-EX/KALAIGNAR_SIRIPPOLI-in&token=RED_wfFhTUcJqx_B4KN7gJCVbA==,1623800813.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
@@ -75,8 +93,11 @@ https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_
 #EXTINF:-1 tvg-logo="http://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp" group-title="Tamil News",Puthiya Thalaimurai
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Logo_of_News7_Tamil_Logo.jpg/220px-Logo_of_News7_Tamil_Logo.jpg" group-title="Tamil News",News 7 Tamil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Logo_of_News7_Tamil_Logo.jpg/220px-Logo_of_News7_Tamil_Logo.jpg" group-title="Tamil News",News 7 Tamil 1
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Logo_of_News7_Tamil_Logo.jpg/220px-Logo_of_News7_Tamil_Logo.jpg" group-title="Tamil News",News 7 Tamil 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44665
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/News18_Tamil_Nadu.jpg" group-title="Tamil News",News 18 TamilNadu
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
@@ -153,8 +174,20 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil Music",7s Music 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44788
 
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_tunes.png",MK Tunes
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yyv3R/IMG-20210501-125800.png" group-title="Tamil Local Music",MN Music
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44907
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_tunes.png",MK Tunes 1
 http://46.105.112.116/?watch=R-EX/MK_TUNES-in&token=RED_7GVGdrGjY1fC_iY6-qgQLg==,1623042970.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_tunes.png",MK Tunes 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44745
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbyvtssn/Screenshot-2021-04-28-14-40-22-629-org-videolan-vlc-1619602162814.png" group-title="Tamil Music",ACN Music
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44746
+
+#EXTINF:-1 group-title="Tamil Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/MKTV.png/revision/latest/scale-to-width-down/200?cb=20191225171218",MK TV
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44669
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Garuda_Film.png/revision/latest?cb=20180425150352" group-title="Tamil Movies",Garuda Movies
 https://garuda-cdn.xyz/live/60c355026a422/12345/60700ffcecfd0/60700ffcecfd0.ts
@@ -165,8 +198,11 @@ http://46.105.112.116/?watch=R-EX/FHD_GEMINI_TV_-in&token=RED_bEvaIX9jz_m4Z-GeMq
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.indiantvinfo.com/media/2017/03/Logo-Of-Gemini-Music-HD-Channel.jpg",Gemini Music FHD
 http://46.105.112.116/?watch=R-EX/FHD_GEMICI_MUSIC_-in&token=RED_Xj5I6hE_Ezbubf3QAAyUJw==,1623800617.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg",Gemini Movies
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg",Gemini Movies 1
 http://46.105.112.116/?watch=R-EX/TELUGU_GEMINI_MOVIES_HD-in&token=RED_hW43H-S5yntGsfUZI6onHQ==,1623194421.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg",Gemini Movies 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44718
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/gemini-life-logo-300x300.jpg",Gemini Life
 http://46.105.112.116/?watch=R-EX/TELUGU_GEMINI_LIFE-in&token=RED_bO0d_WqtZU0Xs3sUWweEHA==,1623194295.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
@@ -177,8 +213,11 @@ http://46.105.112.116/?watch=R-EX/FHD_STAR_MAA_MOV-in&token=RED_wxhMs0Avw5fppMtO
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg",Star MAA FHD
 http://46.105.112.116/?watch=R-EX/FHD_STAR_MAA_-in&token=RED_-M5if3zcXJo_ERjlz8NqUw==,1623800708.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinemalu HD
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinemalu HD 1
 http://46.105.112.116/?watch=R-EX/TELUGU_ZEE_CINEMALU-in&token=RED_PcGkdVd1u1D_jYsDhfth3w==,1623194214.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinemalu HD 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44717
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-telugu-hd-logo-300x300.jpg",Zee Telugu HD
 http://46.105.112.116/?watch=R-EX/FHD_ZEE_TELUGU_-in&token=RED_dWrAgOvVlQzL2Hz2t7aXKw==,1623194150.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
@@ -189,14 +228,19 @@ http://46.105.112.116/?watch=R-EX/FHD_HISTORY_TV_-in&token=RED_z9AapVyav4_SYr2ta
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="English",Sony BBC Earth HD 1
 http://46.105.112.116/?watch=R-EX/TAMIL_SONY_BBC_EARTH_HD-in&token=RED_JW9cyGt45KgkLS6BDAV-DQ==,1623194495.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="English",Sony BBC Earth HD 2
+http://46.105.112.116/?watch=R-EX/ENGLISH_BBC_EARTH_HD-in&token=RED_pqP4g2NtQk0fNaNQEmAOmg==,1623044286.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="English",Sony BBC Earth HD 3
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/21519
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9b/4f/84/9b4f843fa6f7d9ab08b2fd9fe9f9457b.png" group-title="English",Fox LiFe HD 
 http://46.105.112.116/?watch=R-EX/TAMIL_FOX_LIFE_HD-in&token=RED_7d0WyVTEbkJ48_Y3mQaerA==,1623799816.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="English",Discovery HD
 http://46.105.112.116/?watch=R-EX/TAMIL_DISCOVERY_WORLD_HD-in&token=RED_gXcsyWNYd0UIm1__bYuf3g==,1623194624.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="English",Sony BBC Earth HD 2
-http://46.105.112.116/?watch=R-EX/ENGLISH_BBC_EARTH_HD-in&token=RED_pqP4g2NtQk0fNaNQEmAOmg==,1623044286.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="English",Discovery FHD
 http://46.105.112.116/?watch=R-EX/FHD_DISCOVERY_-in&token=RED_5Q8yv95SMOSUe9PxDqmp7Q==,1623044129.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
@@ -210,8 +254,11 @@ http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World FHD
 http://46.105.112.116/?watch=R-EX/FHD_STAR_WORLD_-in&token=RED_BTH-uMH8P2czCFPfzZQQBg==,1623193206.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World HD
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World HD 1
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in&token=RED_mrOwJCWQy6NVeTFuiUgQXA==,1623913323.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World HD 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/21513
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e5/3f/b3/e53fb3da3887d1a760b2927a59f57d76.png" group-title="English",Colors Infinity HD
 http://46.105.112.116/?watch=R-EX/ENGLISH_COLORS_INFINITY_HD-in&token=RED_25buVLx-WZEg2iXonoVxeg==,1623802312.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
@@ -252,7 +299,7 @@ http://46.105.112.116/?watch=R-EX/HINDI_MOVIES_NOW_HD-in&token=RED_Z6gyyfwcQxc5L
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",Movies Now HD 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44611
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",Romedy Now HD 
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rdcablenet.com%2Fproduct%2Fromedy-now-hd%2F&psig=AOvVaw2Pw4NrTIPvP9oHhpPMMlz9&ust=1624012523140000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiFqKK8nvECFQAAAAAdAAAAABAJ" group-title="English Movies",Romedy Now HD 
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44832
 
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-url="" group-title="English Movies",&Flix HD
@@ -261,17 +308,23 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-url="" group-title="English Movies",&Flix HD
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44646
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-url="" group-title="English Movies",&privé HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-url="" group-title="English Movies",&privé HD 1
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-url="" group-title="English Movies",&privé HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-url="" group-title="English Movies",&privé HD 2
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-url="" group-title="English Movies",&privé HD 3
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/21507
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 FHD
 http://46.105.112.116/?watch=R-EX/FHD_STAR_SPORTS_1_-in&token=RED_UJuPtvXUOuTH7GTR1WnOLQ==,1623192520.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD 1
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in&token=RED_7uYiYB7mCZWV_yT-twtDlQ==,1623801633.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD 2 
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44707
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 FHD 2
 http://103.81.104.118/hls/stream15.m3u8
@@ -282,8 +335,11 @@ http://46.105.112.116/?watch=R-EX/FHD_STAR_SPORTS_2_-in&token=RED_OuFogGVN4Rhv6m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 FHD 2
 http://103.81.104.118/hls/stream16.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 HD 1
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_2_HD-in&token=RED_T0itZtkmaYP0jDS1EWNM3w==,1623802011.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 HD 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44708
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD 1
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in&token=RED_hSBe1oq1r2XeCTKZzzwv2g==,1623801852.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
@@ -315,20 +371,32 @@ http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN_1_-in&token=RED_OsS7bSxF3ka9TPzLO
 #EXTINF:-1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sony-Ten-1-HD.png" group-title="Sports", Sony Ten 1 FHD 2
 http://103.81.104.118/hls/stream40.m3u8
 
+#EXTINF:-1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sony-Ten-1-HD.png" group-title="Sports", Sony Ten 1 HD 
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44710
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports", Sony Ten 2 FHD 1
 http://103.81.104.118/hls/stream39.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports", Sony Ten 2 FHD 2
 http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN2_-in&token=RED_5895w26Y5sFuQrsHpdpKWg==,1623625055.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports", Sony Ten 2 HD 
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44711
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Sports", Sony Ten 3 FHD
 http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN_3_-in&token=RED_ADCo0R3D-iX3tlJrM0zl_g==,1623625090.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Sports", Sony Ten 3 HD
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44712
 
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six FHD
 http://46.105.112.116/?watch=R-EX/FHD_SONY_SIXX_-in&token=RED_vvbu1QE-afkwMsiSnACMtw==,1623192640.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six HD 1
 http://46.105.112.116/?watch=R-EX/SPORTS_SONY_SIX_HD-in&token=RED_1YINyGgVvRjKL6BMjzCCHw==,1623578086.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six HD 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44713
 
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six HD 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44779
