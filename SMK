@@ -6,11 +6,8 @@ https://garuda-cdnserver1.tk/suntvhd-garuda-iptv/index.m3u8?t=606ffcb5820d2
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD 2
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_TV_HD-in&token=RED_0EJ4oKuJ08OjhjAVpJ7o5w==,1623016277.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD 3
-http://sansat.net:25461/02021767478340/HaK4qAcUsu/100157?play_token=vvw3wEBYTB
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD 3
-http://sansat.net:25461/02021767478340/zvi3YzfQqI/100157?.m3u
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD VPN
+http://alphabetagama.myddns.me/south2019/suntvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDI6MDc6NTggQU0maGFzaF92YWx1ZT1BZHg3Q1B0KzYySEN2OW9vT2NxSHF3PT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 1
 http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
@@ -43,14 +40,16 @@ http://46.105.112.116/?watch=R-EX/TAMIL_KTV_HD-in&token=RED_P_iigbesLUleNbKzw0rp
 http://46.105.112.116/?watch=R-EX/FHD_KTV_-in&token=RED_lk2l1oRHwScryK4sbrjv5w==,1623042507.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil Movies",Vijay Super
-http://46.105.112.116/?watch=R-EX/TAMIL_VIJAY_SUPER-in&token=RED_QDoD75QR_IQH7JlttbfjLA==,1623015794.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+http://46.105.112.116/?watch=R-EX/TAMIL_VIJAY_SUPER-in&token=RED_ZTYiUlK4egUE7MHfC4AeYA==,1623960958.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai
-
-http://sansat.net:25461/02021767478340/se86JmOBRC/100171?play_token=MxQpYlL9tu
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai VPN
+http://alphabetagama.myddns.me/south2019/zeethirai/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDI6MTQ6MTMgQU0maGFzaF92YWx1ZT11VThuS3cvelk2WFhBMkR4UHpQUndnPT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life 
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_LIFE_TAMIL-in&token=RED_NkcE5tZZjMb_I2PGBSklpQ==,1623576985.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life VPN
+http://alphabetagama.myddns.me/south2019/sunlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDI6MTI6MjggQU0maGFzaF92YWx1ZT1jVXFvL3ZiZmNSbXEzeVVzM0N3VnR3PT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil Entertainment",Kalaignar Murasu
 http://46.105.112.116/?watch=R-EX/KALAIGNAR_MURASU-in&token=RED_dPp3m6V9xYUcccGK3ZkV9A==,1623577060.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
@@ -115,8 +114,8 @@ https://garuda-cdnserver1.tk/sunMusic-Garuda-iptv/index.m3u8?t=606ffcb5820d2
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD Low Quality
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music FHD 
-http://sansat.net:25461/02021767478340/GHI8dTp8Nn/100155?play_token=Af8uhP5YsF
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD VPN
+http://alphabetagama.myddns.me/south2019/sunmusichd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDI6MDk6MTQgQU0maGFzaF92YWx1ZT1pcWR4bjBSTkgvdm8xS0NvaG9vNDBRPT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil Music",Raj Musix
 http://46.105.112.116/?watch=R-EX/TAMIL_RAJ_MUSIX-in&token=RED_r8bNal32KAyfZozAxJdcOQ==,1623016365.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
@@ -130,11 +129,11 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
 https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max 
 http://46.105.112.116/?watch=R-EX/TAMIL_JAYA_MAX-in&token=RED_ch7uhAL3o3GLE5xACuqtQg==,1623016394.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max 2
-http://sansat.net:25461/02021767478340/HQRJzr1RBv/100122?play_token=ePtUGCaR0w
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max VPN
+http://alphabetagama.myddns.me/south2019/JayaMax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDI6MTA6NDUgQU0maGFzaF92YWx1ZT1vS3lBM2p6SnZEUmtQSk42U1czS1p3PT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_musicBig.png/revision/latest/scale-to-width-down/230?cb=20200217033512" group-title="Tamil Music",Vijay Music
 http://46.105.112.116/?watch=R-EX/Star_Viyaj_Music-in&token=RED_NQYsfCABZH4VXghmqwPUPA==,1623628800.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
@@ -226,7 +225,7 @@ http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in&token=RED_xt44UcYZBx1ZAJf-
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/421502_preview.png" group-title="English Movies",Star Movies FHD 2
 https://cutt.ly/hnEcdNk
 
-#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/421502_preview.png" group-title="English Movies",Star Movies HD
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/421502_preview.png" group-title="English Movies",Star Movies HD VPN
 http://46.249.33.26:9548/ind2020/starmovieshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDI6MDI6NTUgQU0maGFzaF92YWx1ZT1Ddk9uUHhjM3FxMHowZU10UTJFWjZnPT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/StarMoviesSelectHDLogo.jpg/220px-StarMoviesSelectHDLogo.jpg" group-title="English Movies",Star Movies Select HD
