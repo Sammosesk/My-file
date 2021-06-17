@@ -36,7 +36,9 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44729
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil HD
 http://46.105.112.116/?watch=R-EX/TAMIL_COLORS_HD-in&token=RED_ZYRv7T4Lu76tCxDdDP258w==,1623800442.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil FHD
+#EXTINF:-1 tvg-id="Colors Tamil HD" group-title="Tamil Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",Colors Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://46.105.112.116/?watch=R-EX/FHD_TAMIL_COLORS_-in&token=RED_hzJni0JgE3JPW4hcygHhhQ==,1623192107.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="Tamil Comedy",Adithya TV 1
@@ -181,6 +183,11 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44669
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Garuda_Film.png/revision/latest?cb=20180425150352" group-title="Tamil Movies",Garuda Movies
 https://garuda-cdn.xyz/live/60c355026a422/12345/60700ffcecfd0/60700ffcecfd0.ts
+
+#EXTINF:-1 tvg-id="YuppThiraiHD" group-title="Tamil Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",Yupp Thirai HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
+https://garuda-cdn.xyz/live/60c355026a422/12345/608cd96c30c0d/608cd96c30c0d.ts
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.pinimg.com/564x/59/e9/1a/59e91a7c7ed1a090308a7da6e32824b8.jpg",Gemini TV
 http://46.105.112.116/?watch=R-EX/FHD_GEMINI_TV_-in&token=RED_bEvaIX9jz_m4Z-GeMqzEgg==,1623193980.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
