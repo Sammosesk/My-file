@@ -39,10 +39,10 @@ http://46.105.112.116/?watch=R-EX/TAMIL_COLORS_HD-in&token=RED_ZYRv7T4Lu76tCxDdD
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil FHD
 http://46.105.112.116/?watch=R-EX/FHD_TAMIL_COLORS_-in&token=RED_hzJni0JgE3JPW4hcygHhhQ==,1623192107.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo=" https://sc.dish.com/shared/images/station-logos/ADTYA.png " group-title="Tamil Comedy",Adithya TV 1
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="Tamil Comedy",Adithya TV 1
 http://46.105.112.116/?watch=R-EX/ADITHYA_TV-in&token=RED_qlfhinRylDGLGE9EprJLTQ==,1623043139.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo=" https://sc.dish.com/shared/images/station-logos/ADTYA.png " group-title="Tamil Comedy",Adithya TV 2
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="Tamil Comedy",Adithya TV 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44681
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Movies",KTV HD
@@ -57,7 +57,7 @@ http://46.105.112.116/?watch=R-EX/TAMIL_VIJAY_SUPER-in&token=RED_ZTYiUlK4egUE7MH
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/16/16424e0c2ea9562556cb153cc9c417d9.jpeg" group-title="Tamil Movies",Jaya Movies
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44747
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839" group-title="Tamil;Entertainment",Peppers TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839" group-title="Tamil Entertainment",Peppers TV
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44870
 
 #EXTINF:-1 tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png" group-title="Tamil Entertainment",Ultramax Tv
@@ -114,7 +114,7 @@ http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608980b35450f/608980b35450f.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil News",Sun News 2
 http://rv.therevenge.co:80/live/477817175105424/477817175105424/83948.m3u8?checkedby
 
-#EXTINF:-1 tvg-logo="https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DefHPf13SGBc&psig=AOvVaw2WeM_Usi20nmkCELQZW1TS&ust=1623945528196000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCy8NTCnPECFQAAAAAdAAAAABAi" group-title="Tamil News",Kalaignar Seithigal
+#EXTINF:-1 tvg-logo="https://imga.androidappsapk.co/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g=s300" group-title="Tamil;News",Kalaignar Seithigal
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil News",Sun News
@@ -174,7 +174,7 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil Music",7s Music 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44788
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yyv3R/IMG-20210501-125800.png" group-title="Tamil Local Music",MN Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yyv3R/IMG-20210501-125800.png" group-title="Tamil Music",MN Music
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44907
 
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_tunes.png",MK Tunes 1
