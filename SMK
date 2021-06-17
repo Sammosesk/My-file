@@ -122,7 +122,7 @@ http://sansat.net:25461/02021767478340/hBfeByhAkF/100155?play_token=eikKpkdOWu
 http://46.105.112.116/?watch=R-EX/TAMIL_RAJ_MUSIX-in&token=RED_r8bNal32KAyfZozAxJdcOQ==,1623016365.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil Music",Raj Musix
-http://sansat.net:25461/02021767478340/5JnCtfWZtD/100145?play_token=hQQx5pB5o1
+http://sansat.net:25461/02021767478340/PiquPqtcP7/100145?play_token=eNjdIFHKGl
 
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
