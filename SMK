@@ -51,8 +51,11 @@ http://46.105.112.116/?watch=R-EX/ADITHYA_TV-in&token=RED_qlfhinRylDGLGE9EprJLTQ
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="Tamil Comedy",Adithya TV 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44681
 
-#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Movies",KTV HD
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Movies",KTV HD 1
 http://46.105.112.116/?watch=R-EX/TAMIL_KTV_HD-in&token=RED_P_iigbesLUleNbKzw0rppw==,1623799626.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Movies",KTV HD 2
+http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Movies",KTV FHD
 http://46.105.112.116/?watch=R-EX/FHD_KTV_-in&token=RED_lk2l1oRHwScryK4sbrjv5w==,1623042507.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
@@ -64,10 +67,10 @@ http://46.105.112.116/?watch=R-EX/TAMIL_VIJAY_SUPER-in&token=RED_ZTYiUlK4egUE7MH
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44747
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839" group-title="Tamil Entertainment",Peppers TV 1
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44870
+http://live.wmncdn.net/peppers/live.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839" group-title="Tamil Entertainment",Peppers TV 2
-http://live.wmncdn.net/peppers/live.stream/index.m3u8
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44870
 
 #EXTINF:-1 tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png" group-title="Tamil Entertainment",Ultramax Tv
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44666
@@ -163,13 +166,16 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
 https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8
 
-#EXTINF:-1 tvg-id="JayaMax" group-title="Tamil Music" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",Jaya Max
+#EXTINF:-1 tvg-id="JayaMax" group-title="Tamil Music" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",Jaya Max 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://46.105.112.116/?watch=R-EX/TAMIL_JAYA_MAX-in&token=RED_ch7uhAL3o3GLE5xACuqtQg==,1623016394.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44661
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max 3
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_musicBig.png/revision/latest/scale-to-width-down/230?cb=20200217033512" group-title="Tamil Music",Vijay Music
 http://46.105.112.116/?watch=R-EX/Star_Viyaj_Music-in&token=RED_NQYsfCABZH4VXghmqwPUPA==,1623628800.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
@@ -199,10 +205,13 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44669
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Garuda_Film.png/revision/latest?cb=20180425150352" group-title="Tamil Movies",Garuda Movies
 https://garuda-cdn.xyz/live/60c355026a422/12345/60700ffcecfd0/60700ffcecfd0.ts
 
-#EXTINF:-1 tvg-id="YuppThiraiHD" group-title="Tamil Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",Yupp Thirai HD
+#EXTINF:-1 tvg-id="YuppThiraiHD" group-title="Tamil Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",Yupp Thirai 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 https://garuda-cdn.xyz/live/60c355026a422/12345/608cd96c30c0d/608cd96c30c0d.ts
+
+#EXTINF:-1 tvg-id="YuppThiraiHD" group-title="Tamil Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",Yupp Thirai 2
+http://istreamiptv.gq/vdn/thirai/auth.php
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.pinimg.com/564x/59/e9/1a/59e91a7c7ed1a090308a7da6e32824b8.jpg",Gemini TV
 http://46.105.112.116/?watch=R-EX/FHD_GEMINI_TV_-in&token=RED_bEvaIX9jz_m4Z-GeMqzEgg==,1623193980.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
@@ -284,14 +293,20 @@ http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix HD
 http://185.180.15.13:2200/R-EX/HINDI_SONY_PIX_HD-in/mono.m3u8?token=RED_T-PM1WbplV9FtToO4HasAQ==,1615770127.7448616414
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="English Movies",MN+ HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="English Movies",MN+ HD 1
 http://46.105.112.116/?watch=R-EX/HINDI_MN_PLUS_HD-in&token=RED_tH7R6xu8n-BLOAVLmP_86Q==,1623191882.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="English Movies",MN+ HD 2
+http://212.224.98.196:2200/R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/421502_preview.png" group-title="English Movies",Star Movies FHD 1
 http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in&token=RED_xt44UcYZBx1ZAJf-CQ1uWg==,1623192392.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/421502_preview.png" group-title="English Movies",Star Movies FHD 2
 https://cutt.ly/hnEcdNk
+
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/421502_preview.png" group-title="English Movies",Star Movies FHD 3
+http://212.224.98.196:2200/R-EX/HINDI_STAR_UTSAV_MOVIES-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/StarMoviesSelectHDLogo.jpg/220px-StarMoviesSelectHDLogo.jpg" group-title="English Movies",Star Movies Select HD 1
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44610
@@ -304,6 +319,9 @@ http://46.105.112.116/?watch=R-EX/HINDI_MOVIES_NOW_HD-in&token=RED_Z6gyyfwcQxc5L
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",Movies Now HD 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44611
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",Movies Now HD 3
+http://212.224.98.196:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rdcablenet.com%2Fproduct%2Fromedy-now-hd%2F&psig=AOvVaw2Pw4NrTIPvP9oHhpPMMlz9&ust=1624012523140000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiFqKK8nvECFQAAAAAdAAAAABAJ" group-title="English Movies",Romedy Now HD 
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44832
@@ -362,8 +380,11 @@ http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in&token=RED_09
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="Sports", Star Sports Select 2 HD 2
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in&token=RED_VvihNcgcNwUWooNBjRogLg==,1623577813.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg/revision/latest/scale-to-width-down/200?cb=20191214224150" group-title="Sports",Star Sports Tamil
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg/revision/latest/scale-to-width-down/200?cb=20191214224150" group-title="Sports",Star Sports Tamil 1
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_TAMIL-in&token=RED_HEJ3ifvf32kPQ3CE7cFRzQ==,1623578253.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg/revision/latest/scale-to-width-down/200?cb=20191214224150" group-title="Sports",Star Sports Tamil 2
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony_Ten_4.png/revision/latest/scale-to-width-down/220?cb=20210601055433" group-title="Sports",Sony Ten 4 Tamil
 https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
