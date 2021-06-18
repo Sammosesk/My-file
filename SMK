@@ -375,7 +375,7 @@ http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN_1_-in&token=RED_OsS7bSxF3ka9TPzLO
 #EXTINF:-1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sony-Ten-1-HD.png" group-title="Sports", Sony Ten 1 FHD 2
 http://103.81.104.118/hls/stream40.m3u8
 
-#EXTINF:-1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sony-Ten-1-HD.png" group-title="Sports", Sont Ten 1 HD 
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fak1495985%2Fsporting-live%2F&psig=AOvVaw2o1qjrE31tRWbur05YO48L&ust=1624098262663000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJiR3tL7oPECFQAAAAAdAAAAABAI" group-title="Sports", Sont Ten 1 
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44710
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports", Sony Ten 2 FHD 1
