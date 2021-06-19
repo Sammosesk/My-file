@@ -21,11 +21,14 @@ http://46.105.112.116/?watch=R-EX/FHD_VIJAY_-in&token=RED_CkjvmiuwQ_twN_zb7rnC0A
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil 1
 https://cutt.ly/znVtUhW
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil HD 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44714
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil 3
 https://catchup.yuppcdn.net/amazonv2/20/preview/zeetamil/master/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil HD
+http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil Entertainment",Jaya TV HD 1
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
@@ -84,7 +87,7 @@ http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44666
 
 #EXTINF:-1 tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png" group-title="Tamil Entertainment",Ultramax Tv FHD
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax.m3u8
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil Entertainment",Kalaignar Murasu 1
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44684
@@ -400,7 +403,7 @@ http://127.0.0.1:40215/http/qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30
 http://103.81.104.118/hls/stream16.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 HD 1
-http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_2_HD-in&token=RED_T0itZtkmaYP0jDS1EWNM3w==,1623802011.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+http://103.153.39.34:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 HD 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44708
@@ -457,9 +460,9 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44712
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six HD 1
-http://46.105.112.116/?watch=R-EX/SPORTS_SONY_SIX_HD-in&token=RED_1YINyGgVvRjKL6BMjzCCHw==,1623578086.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+http://103.153.39.34:8000/play/a043/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six HD 
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six HD 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44713
 
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six
