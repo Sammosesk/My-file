@@ -270,10 +270,10 @@ http://143.244.60.3/Telugu_MaaMusic/tracks-v1a1/mono.m3u8?token=Rk
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinema HD 
 http://46.105.112.116/?watch=R-EX/TELUGU_ZEE_CINEMALU-in&token=RED_PcGkdVd1u1D_jYsDhfth3w==,1623194214.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinemalu 1
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinemalu 
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44717
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinemalu 2
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinemalu HD
 https://cutt.ly/qnVyZHP
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-telugu-hd-logo-300x300.jpg",Zee Telugu HD
