@@ -246,9 +246,7 @@ http://46.105.112.116/?watch=R-EX/FHD_ZEE_TELUGU_-in&token=RED_dWrAgOvVlQzL2Hz2t
 http://46.105.112.116/?watch=R-EX/FHD_HISTORY_TV_-in&token=RED_z9AapVyav4_SYr2taMsnbg==,1623044190.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="English",Sony BBC Earth HD 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
-http://46.105.112.116/?watch=R-EX/TAMIL_SONY_BBC_EARTH_HD-in&token=RED_JW9cyGt45KgkLS6BDAV-DQ==,1623194495.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="English",Sony BBC Earth HD 2
 http://46.105.112.116/?watch=R-EX/ENGLISH_BBC_EARTH_HD-in&token=RED_pqP4g2NtQk0fNaNQEmAOmg==,1623044286.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
@@ -263,7 +261,7 @@ http://46.105.112.116/?watch=R-EX/TAMIL_DISCOVERY_WORLD_HD-in&token=RED_gXcsyWNY
 http://46.105.112.116/?watch=R-EX/FHD_DISCOVERY_-in&token=RED_5Q8yv95SMOSUe9PxDqmp7Q==,1623044129.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="English",Animal planet HD 1
-http://46.105.112.116/?watch=R-EX/ENGLISH_ANIMAL_PLANET_HD-in&token=RED_oR_nP69hCIiU2R1CiCuFPg==,1623193692.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="English",Animal planet HD 2
 http://103.81.104.118/hls/stream6.m3u8
@@ -283,13 +281,13 @@ http://46.105.112.116/?watch=R-EX/ENGLISH_COLORS_INFINITY_HD-in&token=RED_25buVL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143020755094929408/8b7P5hZ6.png" group-title="English",Travel XP
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix FHD 1
-http://46.105.112.116/?watch=R-EX/FHD_SONY_PIX_-in&token=RED_F6aeAYTaMsV0o1LtWuXZ5Q==,1623381766.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix HD 1
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix FHD 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix HD 2
 http://103.81.104.118/hls/stream1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix HD 3
 http://185.180.15.13:2200/R-EX/HINDI_SONY_PIX_HD-in/mono.m3u8?token=RED_T-PM1WbplV9FtToO4HasAQ==,1615770127.7448616414
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="English Movies",MN+ HD 1
@@ -413,7 +411,7 @@ http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN_3_-in&token=RED_ADCo0R3D-iX3tlJrM
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44712
 
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six FHD
-http://46.105.112.116/?watch=R-EX/FHD_SONY_SIXX_-in&token=RED_vvbu1QE-afkwMsiSnACMtw==,1623192640.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six HD 1
 http://46.105.112.116/?watch=R-EX/SPORTS_SONY_SIX_HD-in&token=RED_1YINyGgVvRjKL6BMjzCCHw==,1623578086.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
@@ -435,3 +433,7 @@ http://46.105.112.116/?watch=R-EX/EURO_SPORTS_-in&token=RED__-OyzvL07tMJeySsNe9m
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="Sports", Willow Cricket HD
 http://46.105.112.116/?watch=R-EX/WILLOW_CRICKET_HD-in&token=RED_kxKhFpS9xNuTls3SBvn7dQ==,1623483119.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="" group-title="Devotional", Shirdi 
+https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
+
