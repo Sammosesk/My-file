@@ -56,6 +56,12 @@ http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Movies",KTV FHD
 http://46.105.112.116/?watch=R-EX/FHD_KTV_-in&token=RED_lk2l1oRHwScryK4sbrjv5w==,1623042507.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
 
+#EXTINF:-1 tvg-logo="" group-title="Tamil Movies",KBO
+https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Movies",KBO Classic
+https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil Movies",Vijay Super
 http://46.105.112.116/?watch=R-EX/TAMIL_VIJAY_SUPER-in&token=RED_ZTYiUlK4egUE7MHfC4AeYA==,1623960958.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
 
@@ -177,7 +183,7 @@ https://garuda-cdn.xyz/live/60c355026a422/12345/6090349a372d6/6090349a372d6.ts
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil Music",Raj Musix
-http://46.105.112.116/?watch=R-EX/TAMIL_RAJ_MUSIX-in&token=RED_r8bNal32KAyfZozAxJdcOQ==,1623016365.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+http://143.244.60.3/Tamil_RajMusix/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
@@ -188,7 +194,7 @@ https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8
 #EXTINF:-1 tvg-id="JayaMax" group-title="Tamil Music" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",Jaya Max 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
-http://46.105.112.116/?watch=R-EX/TAMIL_JAYA_MAX-in&token=RED_ch7uhAL3o3GLE5xACuqtQg==,1623016394.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
+http://89.187.181.170/Tamil_JayaMax/tracks-v1a1/mono.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44661
@@ -254,6 +260,9 @@ http://46.105.112.116/?watch=R-EX/FHD_STAR_MAA_MOV-in&token=RED_wxhMs0Avw5fppMtO
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg",Star MAA FHD
 http://46.105.112.116/?watch=R-EX/FHD_STAR_MAA_-in&token=RED_-M5if3zcXJo_ERjlz8NqUw==,1623800708.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg",Star MAA Music
+http://143.244.60.3/Telugu_MaaMusic/tracks-v1a1/mono.m3u8?token=Rk
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinema HD 
 http://46.105.112.116/?watch=R-EX/TELUGU_ZEE_CINEMALU-in&token=RED_PcGkdVd1u1D_jYsDhfth3w==,1623194214.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
@@ -376,7 +385,7 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/21507
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30630
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD 1
-http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in&token=RED_7uYiYB7mCZWV_yT-twtDlQ==,1623801633.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+http://127.0.0.1:38761/http/qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30630
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD 2 
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44707
@@ -385,7 +394,7 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44707
 http://103.81.104.118/hls/stream15.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 FHD
-http://46.105.112.116/?watch=R-EX/FHD_STAR_SPORTS_2_-in&token=RED_OuFogGVN4Rhv6mBtvWRVEQ==,1623192590.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+http://127.0.0.1:40215/http/qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30629
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 FHD 2
 http://103.81.104.118/hls/stream16.m3u8
@@ -406,7 +415,7 @@ http://103.81.104.118/hls/stream12.m3u8
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in&token=RED_V4sWGFX5xEgWUbVmU167Bw==,1623577777.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="Sports", Star Sports Select 2 HD 1
-http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in&token=RED_09Pxi57IMoPeqR4cCw9P9A==,1623801967.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+http://127.0.0.1:41760/http/qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30538
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="Sports", Star Sports Select 2 HD 2
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in&token=RED_VvihNcgcNwUWooNBjRogLg==,1623577813.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
