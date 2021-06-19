@@ -297,8 +297,8 @@ http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World FHD
 http://46.105.112.116/?watch=R-EX/FHD_STAR_WORLD_-in&token=RED_BTH-uMH8P2czCFPfzZQQBg==,1623193206.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World HD 1
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in&token=RED_mrOwJCWQy6NVeTFuiUgQXA==,1623913323.4914806624&t=0&s=17&p=1&c=DE&r=19&lb=1
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World Premier HD
+http://127.0.0.1:37522/http/oqab.life:8080/live/111/111/107.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World HD 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/21513
@@ -328,7 +328,7 @@ http://46.105.112.116/?watch=R-EX/HINDI_MN_PLUS_HD-in&token=RED_tH7R6xu8n-BLOAVL
 http://212.224.98.196:2200/R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/421502_preview.png" group-title="English Movies",Star Movies FHD 1
-http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in&token=RED_xt44UcYZBx1ZAJf-CQ1uWg==,1623192392.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
+https://cutt.ly/LnSkUBN
 
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/421502_preview.png" group-title="English Movies",Star Movies FHD 2
 https://cutt.ly/hnEcdNk
@@ -350,6 +350,9 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44611
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",Movies Now HD 3
 http://212.224.98.196:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",MNX HD
+http://127.0.0.1:37146/http/oqab.life:8080/live/111/111/100.ts
 
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rdcablenet.com%2Fproduct%2Fromedy-now-hd%2F&psig=AOvVaw2Pw4NrTIPvP9oHhpPMMlz9&ust=1624012523140000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiFqKK8nvECFQAAAAAdAAAAABAJ" group-title="English Movies",Romedy Now HD 
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44832
