@@ -221,7 +221,7 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44907
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://46.105.112.116/?watch=R-EX/MK_TUNES-in&token=RED_7GVGdrGjY1fC_iY6-qgQLg==,1623042970.3742543580&t=1&s=17&p=1&c=TR&r=19&lb=1
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/MKTV.png/revision/latest/scale-to-width-down/200?cb=20191225171218",MK TV
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44669
