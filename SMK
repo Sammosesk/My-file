@@ -9,14 +9,11 @@ https://garuda-cdn.xyz/live/60c355026a422/12345/60733112f28dd/60733112f28dd.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV UK HD 
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay FHD 
 http://89.187.181.113/Tamil_StarVijayHDIndia/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44744
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay FHD
-http://46.105.112.116/?watch=R-EX/FHD_VIJAY_-in&token=RED_CkjvmiuwQ_twN_zb7rnC0A==,1624097812.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil 1
 https://cutt.ly/znVtUhW
@@ -302,6 +299,8 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="English",Animal planet HD 2
 http://103.81.104.118/hls/stream6.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://lovenature.com/wp-content/uploads/2020/01/default.png" tvg-id="-738589577_love-nature-4k",Love Nature 
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World FHD
 http://46.105.112.116/?watch=R-EX/FHD_STAR_WORLD_-in&token=RED_BTH-uMH8P2czCFPfzZQQBg==,1623193206.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
@@ -330,6 +329,9 @@ http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix HD 3
 http://127.0.0.1:42892/http/iptv.tvmalaysia.cc/932633/932633/8213
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix HD 4
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44795
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="English Movies",MN+ HD 1
 http://46.105.112.116/?watch=R-EX/HINDI_MN_PLUS_HD-in&token=RED_tH7R6xu8n-BLOAVLmP_86Q==,1623191882.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
 
@@ -352,12 +354,9 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44610
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in&token=RED_ImVZprbSgC5Ci-ZHz83ygw==,1623192256.5617254893&t=0&s=17&p=1&c=TR&r=19&lb=1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",Movies Now HD 1
-http://46.105.112.116/?watch=R-EX/HINDI_MOVIES_NOW_HD-in&token=RED_Z6gyyfwcQxc5Lhn4Oq2zOA==,1623016019.3742543580&t=0&s=17&p=1&c=TR&r=19&lb=1
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",Movies Now HD 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44611
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",Movies Now HD 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",Movies Now HD 2
 http://212.224.98.196:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg" group-title="English Movies",MNX HD
@@ -369,8 +368,8 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44832
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-url="" group-title="English Movies",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-url="" group-title="English Movies",&Flix HD
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44646
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-url="" group-title="English Movies",&Flix 
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44816
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-url="" group-title="English Movies",&privé HD 1
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
@@ -465,8 +464,11 @@ http://103.153.39.34:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports",Ten Cricket
 http://103.81.104.118/hls/stream34.m3u8
 
-#EXTINF:-1 tvg-logo="https://sportda.com/wp-content/uploads/2018/09/SKY-SPORTS-CRICKET-1080.png" group-title="Sports", Sky Cricket FHD
+#EXTINF:-1 tvg-logo="https://sportda.com/wp-content/uploads/2018/09/SKY-SPORTS-CRICKET-1080.png" group-title="Sports", Sky Cricket FHD 1
 http://143.244.60.74/SkySportsCricket/tracks-v1a1/mono.m3u8?token=7db29de8199fdebdef73366ebe1be496
+
+#EXTINF:-1 tvg-logo="https://sportda.com/wp-content/uploads/2018/09/SKY-SPORTS-CRICKET-1080.png" group-title="Sports", Sky Cricket FHD 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2615
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png/revision/latest/scale-to-width-down/300?cb=20200319064538" group-title="Sports", Eurosport
 http://46.105.112.116/?watch=R-EX/EURO_SPORTS_-in&token=RED__-OyzvL07tMJeySsNe9m-g==,1623578177.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
