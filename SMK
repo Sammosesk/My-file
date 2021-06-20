@@ -33,8 +33,8 @@ http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil Entertainment",Jaya TV HD 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44729
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil HD
-http://127.0.0.1:40287/http/opplex.tv:8080/776548/776548/167675
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil
+https://cutt.ly/rnVFJjP
 
 #EXTINF:-1 tvg-id="Colors Tamil HD" group-title="Tamil Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",Colors Tamil 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
