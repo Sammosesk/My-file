@@ -149,7 +149,7 @@ http://rv.therevenge.co:80/live/477817175105424/477817175105424/83948.m3u8?check
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil News",Sun News 3
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_NEWS_TAMIL_-in&token=RED_WaTw5KVDrzFX3VZxV5RMsw==,1623638066.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://imga.androidappsapk.co/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g=s300" group-title="Tamil News",Kalaignar Seithigal
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngwRcAK5QgPMrQG_1Rd8BPPBm7qosew4UJsUNyoRw=s900-c-k-c0x00ffffff-no-rj" group-title="Tamil News",Kalaignar Seithigal
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/News_J.jpeg/revision/latest/scale-to-width-down/200?cb=20191226093118" group-title="Tamil News",News J
@@ -261,7 +261,7 @@ http://46.105.112.116/?watch=R-EX/FHD_STAR_MAA_MOV-in&token=RED_wxhMs0Avw5fppMtO
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg",Star MAA FHD
 http://46.105.112.116/?watch=R-EX/FHD_STAR_MAA_-in&token=RED_-M5if3zcXJo_ERjlz8NqUw==,1623800708.4914806624&t=1&s=17&p=1&c=DE&r=19&lb=1
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg",Star MAA Music
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhmZKDu43ysOjPo9xlKgLgPB1ezLEKw-RNUKJ6kFg=s900-c-k-c0x00ffffff-no-rj",Star MAA Music
 http://143.244.60.3/Telugu_MaaMusic/tracks-v1a1/mono.m3u8?token=Rk
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo11.jpg",Zee Cinema HD 
@@ -306,7 +306,7 @@ http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World FHD
 http://46.105.112.116/?watch=R-EX/FHD_STAR_WORLD_-in&token=RED_BTH-uMH8P2czCFPfzZQQBg==,1623193206.5617254893&t=1&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World Premier HD
+#EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/71.jpg" group-title="English",Star World Premier HD
 http://127.0.0.1:37522/http/oqab.life:8080/live/111/111/107.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg" group-title="English",Star World HD 2
@@ -360,10 +360,10 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44611
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",Movies Now HD 3
 http://212.224.98.196:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180531123424" group-title="English Movies",MNX HD
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg" group-title="English Movies",MNX HD
 http://127.0.0.1:37146/http/oqab.life:8080/live/111/111/100.ts
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rdcablenet.com%2Fproduct%2Fromedy-now-hd%2F&psig=AOvVaw2Pw4NrTIPvP9oHhpPMMlz9&ust=1624012523140000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiFqKK8nvECFQAAAAAdAAAAABAJ" group-title="English Movies",Romedy Now HD 
+#EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/695.png" group-title="English Movies",Romedy Now HD 
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44832
 
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-url="" group-title="English Movies",&Flix HD
@@ -474,15 +474,15 @@ http://46.105.112.116/?watch=R-EX/EURO_SPORTS_-in&token=RED__-OyzvL07tMJeySsNe9m
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="Sports", Willow Cricket HD
 http://89.187.181.225/FoxCricketHD/tracks-v1a1/mono.m3u8?token=b3d8d299ac46668a84db665618057c75
 
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="Sports", Willow Extra
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" group-title="Sports", Willow Extra
 http://212.102.58.183/tqnwmzfurygicog/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png" group-title="Sports",Super Sport Cricket
 http://5.255.94.248:8080/Khuram-SUPERSPORT04/tracks-v1a1/mono.m3u8?token=lEJ_3KKZf2
 
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="Sports", Bien Sports 3 English HD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="Sports", Bien Sports 3 English HD
 http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=1844643e0c9c935d95933ab128fca55c
 
-#EXTINF:-1 tvg-logo="" group-title="Devotional", Shirdi 
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/sai-baba-png/akshayam-travels-shirdi-sai-baba-tours-shirdi-tours-12.png" group-title="Devotional", Shirdi 
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
