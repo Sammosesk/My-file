@@ -51,7 +51,7 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44681
 http://89.187.181.113/Tamil_KTVHDIndia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Movies",KTV HD 2
-http://127.0.0.1:42354/http/opplex.tv:8080/776548/776548/167632
+http://89.187.181.113/Tamil_KTVHDIndia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Movies",KTV 4K
 http://127.0.0.1:38824/http/opplex.tv:8080/776548/776548/110000
