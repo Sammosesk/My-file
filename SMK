@@ -463,10 +463,13 @@ http://103.153.39.34:8000/play/a043/index.m3u8
 http://103.81.104.118/hls/stream34.m3u8
 
 #EXTINF:-1 tvg-logo="https://sportda.com/wp-content/uploads/2018/09/SKY-SPORTS-CRICKET-1080.png" group-title="Sports", Sky Cricket FHD
-http://46.105.112.116/?watch=EX/Sky_Sports_Cricket_FHD-uk&token=RED_j2S33Ed9KnIsnORfLKU2pw==,1623482948.4914806624&t=0&s=4&p=1&c=TR&r=19&lb=1
+http://143.244.60.74/SkySportsCricket/tracks-v1a1/mono.m3u8?token=7db29de8199fdebdef73366ebe1be496
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png/revision/latest/scale-to-width-down/300?cb=20200319064538" group-title="Sports", Eurosports
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png/revision/latest/scale-to-width-down/300?cb=20200319064538" group-title="Sports", Eurosport
 http://46.105.112.116/?watch=R-EX/EURO_SPORTS_-in&token=RED__-OyzvL07tMJeySsNe9m-g==,1623578177.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png/revision/latest/scale-to-width-down/300?cb=20200319064538" group-title="Sports", Eurosport 1
+http://89.17.204.38/ch57/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="Sports", Willow Cricket HD
 http://89.187.181.225/FoxCricketHD/tracks-v1a1/mono.m3u8?token=b3d8d299ac46668a84db665618057c75
