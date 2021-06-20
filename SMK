@@ -503,7 +503,7 @@ http://103.153.39.34:8000/play/a043/index.m3u8
 http://103.81.104.118/hls/stream34.m3u8
 
 #EXTINF:-1 tvg-logo="https://sportda.com/wp-content/uploads/2018/09/SKY-SPORTS-CRICKET-1080.png" group-title="Sports", Sky Cricket FHD 1
-http://143.244.60.74/SkySportsCricket/tracks-v1a1/mono.m3u8?token=7db29de8199fdebdef73366ebe1be496
+https://list.iptvcat.com/my_list/s/50dea0085b1216018ce1d6da54dc67fa.m3u8
 
 #EXTINF:-1 tvg-logo="https://sportda.com/wp-content/uploads/2018/09/SKY-SPORTS-CRICKET-1080.png" group-title="Sports", Sky Cricket FHD 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2615
