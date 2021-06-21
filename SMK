@@ -50,10 +50,16 @@ http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="Tamil Comedy",Adithya TV 1
-http://89.187.181.113/Tamil_AdithyaTV/index.m3u8
+https://garuda-cdn.xyz/live/60c355026a422/12345/60898152d1a6f/60898152d1a6f.m3u8
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="Tamil Comedy",Adithya TV 2
+http://uk1.zecast.com:1935/star-live/adithya/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="Tamil Comedy",Adithya TV 3
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44681
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="Tamil Comedy",Adithya TV Malaysia
+http://pal.ukodtv.xyz/live/3238545630/7067527301/39.m3u8?token=QhpQUUYMEAlABFoHCAYLB1VWVwRSDwNVAldcUggHVwlcCwxVA1MKClEQFUZDQUFVBVpsCwUbDAVdTUdGSwRDb1BcGgoXUAcDVhAVRkRcXlVGDQNOQ0lfUkZbC0ZUDR0SXEBMVUcKU189VlwSWVZWEl5ZRg4NFRRZCj4BVlUAX1QbAhoBF0gQWhFCG15eQF9cSBVRCxVLV0IBQ19dTQ1dHBtbV0VbEEBKQAgbLX4XHxIBT0cHD0pfWQpDXxFVUkQIGxQaWUY7QFYRRksBUVhWQkYNEVJDFRRbBRk6UFcPX1VaTFFfWxcQCUADG0gSWFxeDUNcED5JX1JGWwtGVA1M
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Movies",KTV HD 1
 http://89.187.181.113/Tamil_KTVHDIndia/index.m3u8
@@ -364,3 +370,6 @@ http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=1844643e0c9c935d
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/sai-baba-png/akshayam-travels-shirdi-sai-baba-tours-shirdi-tours-12.png" group-title="Devotional", Shirdi 
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/SVBC_2.jpg/revision/latest/scale-to-width-down/280?cb=20190318130356" group-title="Devotional",Svbc 2
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
