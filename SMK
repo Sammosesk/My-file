@@ -71,7 +71,7 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil Movies",Vijay Super
-http://pn.tvott.info:80/live/307201171111/307201171111/83944.m3u8
+http://185.71.64.167/live/307202026125/307202026125/83944.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/cms-assets/services/banners/2020-06/tata-sky-tamil-cinema-logo_0.png" group-title="Tamil Movies",Tata Sky Tamil Cinema
 http://pn.tvott.info:80/live/307201171111/307201171111/83946.m3u8
