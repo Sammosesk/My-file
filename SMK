@@ -74,7 +74,7 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
 http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RK
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/cms-assets/services/banners/2020-06/tata-sky-tamil-cinema-logo_0.png" group-title="Tamil Movies",Tata Sky Tamil Cinema
-http://pn.tvott.info:80/live/307201171111/307201171111/83946.m3u8
+http://127.0.0.1:39779/http/ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40829.ts
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/16/16424e0c2ea9562556cb153cc9c417d9.jpeg" group-title="Tamil Movies",Jaya Movies
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44747
@@ -101,7 +101,7 @@ https://rftv.xyz/zee5/zeeplay.php?c=0-9-224
 https://cutt.ly/MnVr4BN
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life High Quality
-https://garuda-cdn.xyz/live/60c355026a422/12345/6075e5c94564a/6075e5c94564a.ts
+https://suntvvodaf-live.s.llnwi.net:443/SunLife/SunLife.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life Low Quality
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_LIFE_TAMIL-in&token=RED_NkcE5tZZjMb_I2PGBSklpQ==,1623576985.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
@@ -167,7 +167,7 @@ http://212.224.98.196:2200/R-EX/TAMIL_JAYA_PLUS-in/index.m3u8?token=rk
 http://rv.therevenge.co:80/live/477817175105424/477817175105424/83900.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD High Quality
-https://garuda-cdn.xyz/live/60c355026a422/12345/6090349a372d6/6090349a372d6.m3u8
+https://suntvvodaf-live.s.llnwi.net:443/SunMusicHD/SunMusicHD.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD Low Quality
 https://suntvvodaf-live.s.llnwi.net:443/SunMusicHD/SunMusicHD.isml/manifest.mpd
@@ -232,7 +232,7 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 http://139.99.41.37:1935/dream/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/MKTV.png/revision/latest/scale-to-width-down/200?cb=20191225171218",MK TV
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44669
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Garuda_Film.png/revision/latest?cb=20180425150352" group-title="Tamil Movies",Garuda Movies
 https://garuda-cdn.xyz/live/60c355026a422/12345/60700ffcecfd0/60700ffcecfd0.ts
