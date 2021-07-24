@@ -83,12 +83,6 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44747
 http://live.wmncdn.net/peppers/live.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839" group-title="Tamil Entertainment",Peppers TV 2
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44870
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839" group-title="Tamil Entertainment",Peppers TV 3
-https://live.wmncdn.net/peppers/live.stream/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839" group-title="Tamil Entertainment",Peppers TV 4
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png" group-title="Tamil Entertainment",Ultramax Tv
@@ -97,10 +91,7 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44666
 #EXTINF:-1 tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png" group-title="Tamil Entertainment",Ultramax Tv FHD
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil Entertainment",Kalaignar Murasu 1
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44684
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil Entertainment",Kalaignar Murasu 2
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil Entertainment",Kalaignar Murasu 
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil Movies",Zee Thirai 1
@@ -115,13 +106,7 @@ https://garuda-cdn.xyz/live/60c355026a422/12345/6075e5c94564a/6075e5c94564a.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life Low Quality
 http://46.105.112.116/?watch=R-EX/TAMIL_SUN_LIFE_TAMIL-in&token=RED_NkcE5tZZjMb_I2PGBSklpQ==,1623576985.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
 
-#EXTINF:-1 group-title="Tamil Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",MK Six 1
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44766
-
-#EXTINF:-1  group-title="Tamil Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",MK Six 2
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44745
-
-#EXTINF:-1  group-title="Tamil Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",MK Six 3
+#EXTINF:-1  group-title="Tamil Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",MK Six 
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" group-title="Tamil Comedy",Kalaignar Siripoli
@@ -265,81 +250,6 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png" group-title="Cooking",Rasi Lifestyle
 http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg/revision/latest/scale-to-width-down/200?cb=20191214224150" group-title="Sports",Star Sports Tamil 1
-http://127.0.0.1:38660/http/opplex.tv:8080/776548/776548/167574
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg/revision/latest/scale-to-width-down/200?cb=20191214224150" group-title="Sports",Star Sports Tamil 2
-http://127.0.0.1:42526/http/opplex.tv:8080/776548/776548/167656
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony_Ten_4.png/revision/latest/scale-to-width-down/220?cb=20210601055433" group-title="Sports",Sony Ten 4 Tamil
-https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sony-Ten-1-HD.png" group-title="Sports", Sony Ten 1 4K
-http://127.0.0.1:37239/http/opplex.tv:8080/776548/776548/109983
-
-#EXTINF:-1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sony-Ten-1-HD.png" group-title="Sports", Sony Ten 1 FHD 2
-http://103.81.104.118/hls/stream40.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.beeiptv.com/wp-content/uploads/2019/08/ten1.jpg" group-title="Sports", Sony Ten 1 HD 2
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44710
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports", Sony Ten 2 FHD 1
-http://103.81.104.118/hls/stream39.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports", Sony Ten 2 FHD 2
-http://46.105.112.116/?watch=R-EX/FHD_SONY_TEN2_-in&token=RED_5895w26Y5sFuQrsHpdpKWg==,1623625055.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports", Sony Ten 2 4K
-http://127.0.0.1:37239/http/opplex.tv:8080/776548/776548/109984
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Sports", Sony Ten 3 4K
-http://127.0.0.1:37239/http/opplex.tv:8080/776548/776548/109985
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Sports", Sony Ten 3 HD
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44712
-
-#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six HD 1
-https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six HD 2
-http://127.0.0.1:43221/http/opplex.tv:8080/776548/776548/109992
-
-#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="Sports", Sony Six FHD 
-http://103.153.39.34:8000/play/a043/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports",Ten Cricket
-http://103.81.104.118/hls/stream34.m3u8
-
-#EXTINF:-1 tvg-logo="https://sportda.com/wp-content/uploads/2018/09/SKY-SPORTS-CRICKET-1080.png" group-title="Sports", Sky Cricket FHD 1
-https://list.iptvcat.com/my_list/s/50dea0085b1216018ce1d6da54dc67fa.m3u8
-
-#EXTINF:-1 tvg-logo="https://sportda.com/wp-content/uploads/2018/09/SKY-SPORTS-CRICKET-1080.png" group-title="Sports", Sky Cricket FHD 2
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/2615
-
-#EXTINF:-1 tvg-logo="https://sportda.com/wp-content/uploads/2018/09/SKY-SPORTS-CRICKET-1080.png" group-title="Sports", Sky Cricket FHD 3
-http://127.0.0.1:43456/http/qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30326
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png/revision/latest/scale-to-width-down/300?cb=20200319064538" group-title="Sports", Eurosport
-http://46.105.112.116/?watch=R-EX/EURO_SPORTS_-in&token=RED__-OyzvL07tMJeySsNe9m-g==,1623578177.4914806624&t=1&s=17&p=1&c=TR&r=19&lb=1
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png/revision/latest/scale-to-width-down/300?cb=20200319064538" group-title="Sports", Eurosport 1
-http://89.17.204.38/ch57/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="Sports", Willow Cricket HD 1
-http://89.187.181.225/FoxCricketHD/tracks-v1a1/mono.m3u8?token=b3d8d299ac46668a84db665618057c75
-
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="Sports", Willow Cricket HD 2
-http://89.187.182.196/sfkbvejmwrfazrp/tracks-v1a1/mono.m3u8?token=03489d197fec2bcb1e3ccf8344f12040
-
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" group-title="Sports", Willow Extra
-http://212.102.58.183/tqnwmzfurygicog/index.m3u8?token=rk
-
-#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png" group-title="Sports",Super Sport Cricket
-http://5.255.94.248:8080/Khuram-SUPERSPORT04/tracks-v1a1/mono.m3u8?token=lEJ_3KKZf2
-
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="Sports", Bien Sports 3 English HD
-http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=1844643e0c9c935d95933ab128fca55c
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/sai-baba-png/akshayam-travels-shirdi-sai-baba-tours-shirdi-tours-12.png" group-title="Devotional", Shirdi 
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
