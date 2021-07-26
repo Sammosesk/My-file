@@ -186,9 +186,6 @@ http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=http://t.me/s
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max 2
 https://jio.instream.ml/jio.php?c=Jaya_Max&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max 3
-http://pn.tvott.info:80/live/307201171111/307201171111/83911.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_musicBig.png/revision/latest/scale-to-width-down/230?cb=20200217033512" group-title="Tamil Music",Vijay Music
 http://212.224.98.196:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=RK
 
