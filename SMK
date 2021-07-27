@@ -7,7 +7,7 @@ http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=http://t.me/
 https://suntvvodaf-live.s.llnwi.net:443/SunTVHD/SunTVHD.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay FHD 
-http://212.102.60.40:2200/R-EX/FHD_VIJAY_-in/tracks-v1a1/mono.m3u8
+http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest?cb=20171015203720" group-title="Tamil Entertainment",Zee Tamil FHD
 http://212.102.60.40:2200/R-EX/FHD_ZEE_TAMIL_-in/tracks-v1a1/mono.m3u8
