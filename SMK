@@ -6,7 +6,13 @@ http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=http://t.me/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD 2
 https://suntvvodaf-live.s.llnwi.net:443/SunTVHD/SunTVHD.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay FHD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 1
+http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 2
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/2855.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay Malaysia
 http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest?cb=20171015203720" group-title="Tamil Entertainment",Zee Tamil FHD
