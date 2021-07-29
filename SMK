@@ -106,6 +106,9 @@ https://rftv.xyz/zee5/zeeplay.php?c=0-9-224
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil Movies",Zee Thirai 2
 https://cutt.ly/MnVr4BN
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil Movies",Zee Thirai 3
+http://rv.bleutv.net:80/live/477816014111154/477816014111154/83914.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life High Quality
 https://suntvvodaf-live.s.llnwi.net:443/SunLife/SunLife.isml/manifest.mpd
 
