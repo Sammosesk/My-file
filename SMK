@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" url-tvg="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD 1 
-http://pn.tvott.info:80/live/307271135111/307271135111/83947.m3u8
+http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/6692/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD 2
 https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=14020
@@ -182,7 +182,7 @@ https://suntvvodaf-live.s.llnwi.net:443/SunMusicHD/SunMusicHD.isml/manifest.mpd
 https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9013
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD 1
-http://pn.tvott.info:80/live/307271135111/307271135111/83949.m3u8
+http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/6694/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD 2
 http://212.102.60.40:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RK
