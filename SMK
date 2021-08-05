@@ -13,7 +13,7 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/40828
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/86065
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 1
-http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8
+http://livezer0.hjkm.info:11991/vulcan/starvijay/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMjowMjo0NiBQTSZoYXNoX3ZhbHVlPWpDVHhhdGd3MTFsVHR5ek9RU29QUkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 2
 http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/2855.ts
@@ -191,7 +191,7 @@ https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9013
 http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/6694/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD 2
-http://212.102.60.40:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RK
+http://alphabetagama.myddns.me/south2019/sunmusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMjowNjo1NiBQTSZoYXNoX3ZhbHVlPVlBbkJNWkluUnJlYlhHUHFpOWRUVWc9PSZ2YWxpZG1pbnV0ZXM9Ng==
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil Music",Raj Musix
 http://212.224.98.196:2200/R-EX/TAMIL_RAJ_MUSIX-in/index.m3u8?token=https://t.me/sam_riyaz
@@ -210,6 +210,9 @@ https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/86110
+
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
+https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in.m3u8
 
 #EXTINF:-1 tvg-id="JayaMax" group-title="Tamil Music" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",Jaya Max 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
