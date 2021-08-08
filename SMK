@@ -13,7 +13,7 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/40828
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/86065
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 1
-http://livezer0.hjkm.info:11991/vulcan/starvijay/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMjowMjo0NiBQTSZoYXNoX3ZhbHVlPWpDVHhhdGd3MTFsVHR5ek9RU29QUkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8?hdntsWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 2
 http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/2855.ts
