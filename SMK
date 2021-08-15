@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" url-tvg="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD 1 
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/87329
+http://178.79.161.66/woh/index.m3u8?id=48012
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD 2
 https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=14020
@@ -116,7 +116,7 @@ http://rv.bleutv.net:80/live/477816014111154/477816014111154/83914.m3u8
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/86066
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life Low Quality
-http://46.105.112.116/?watch=R-EX/TAMIL_SUN_LIFE_TAMIL-in&token=RED_NkcE5tZZjMb_I2PGBSklpQ==,1623576985.4914806624&t=0&s=17&p=1&c=TR&r=19&lb=1
+http://178.79.161.66/woh/index.m3u8?id=48021
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life Low Quality
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/40825
@@ -188,7 +188,7 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/86073
 https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9013
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD 1
-http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/6694/index.m3u8
+http://178.79.161.66/woh/index.m3u8?id=48013
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD 2
 http://alphabetagama.myddns.me/south2019/sunmusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjEgMjowNjo1NiBQTSZoYXNoX3ZhbHVlPVlBbkJNWkluUnJlYlhHUHFpOWRUVWc9PSZ2YWxpZG1pbnV0ZXM9Ng==
