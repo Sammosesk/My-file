@@ -66,7 +66,7 @@ http://last.gcdn.co/IND290/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil",7s Music
 http://last.gcdn.co/IND270/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_tunes.png",Isaiyaruvi
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
 http://last.gcdn.co/IND327/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Movies",KBO
