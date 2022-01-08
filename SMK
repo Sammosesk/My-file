@@ -40,25 +40,25 @@ http://last.gcdn.co/IND270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News
 http://last.gcdn.co/IND296/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil",Sun Music HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD
 http://195.201.82.32:5001/play/a01p
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil",Sun Music HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil Music",Sun Music HD
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil",Raj Musix
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil Music",Raj Musix
 http://last.gcdn.co/IND294/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil",Jaya Max
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max
 http://last.gcdn.co/IND313/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil",Jaya Max
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max
 http://iptv.tvmalaysia.cc/live/penang189/penang189/6802.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_musicBig.png/revision/latest/scale-to-width-down/230?cb=20200217033512" group-title="Tamil",Vijay Music
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_musicBig.png/revision/latest/scale-to-width-down/230?cb=20200217033512" group-title="Tamil Music",Vijay Music
 http://last.gcdn.co/IND290/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil",7s Music
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil Music",7s Music
 http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
